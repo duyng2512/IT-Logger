@@ -1,0 +1,52 @@
+{
+  "logs": [
+    {
+      "message": "Fix local network",
+      "attention": true,
+      "tech": "Jimmy",
+      "date": "2020-04-23T06:14:45.574Z",
+      "id": 4
+    },
+    {
+      "message": "Fixing Network",
+      "attention": true,
+      "tech": "Ng Duy",
+      "date": "2020-04-23T07:47:54.018Z",
+      "id": 5
+    },
+    {
+      "message": "System Log Updated",
+      "attention": false,
+      "tech": "Sara Wilson",
+      "date": "2020-04-23T07:48:20.111Z",
+      "id": 7
+    }
+  ],
+  "techs": [
+    {
+      "id": 3,
+      "firstName": "Sara",
+      "lastName": "Wilson"
+    },
+    {
+      "firstName": "Duy",
+      "lastName": "Duy",
+      "id": 5
+    },
+    {
+      "firstName": "Nguyen ",
+      "lastName": "Nguyen",
+      "id": 6
+    },
+    {
+      "firstName": "Jordan",
+      "lastName": "Peterson",
+      "id": 7
+    },
+    {
+      "firstName": "Minh",
+      "lastName": "Minh",
+      "id": 8
+    }
+  ]
+}
